@@ -7,5 +7,5 @@ Most of my time goes into [Gielinor Gains](https://www.gielinorgains.com), a fli
 Some other things I've made:
 
 - [**Latent**](https://github.com/cameronspears/latent) turns a Sony A5100 into a film camera. Load a film stock, shoot the roll, develop it later.
-- [**resume-hillclimb**](https://github.com/cameronspears/resume-hillclimb) is a Claude Code skill that improves a resume one change at a time and keeps a change only if blind judges prefer it.
+- [**claude-skills**](https://github.com/cameronspears/claude-skills) are the Claude Code skills I use: [craft](https://github.com/cameronspears/claude-skills/tree/main/craft) builds and polishes web UI until nothing looks off, and [resume-hillclimb](https://github.com/cameronspears/claude-skills/tree/main/resume-hillclimb) improves a resume one change at a time, keeping a change only if blind judges prefer it.
 - [**Pria 5**](https://github.com/cameronspears/pria-5) is a small two-way speaker I designed, 3D printed, measured and tuned at home, over more than 60 versions.
