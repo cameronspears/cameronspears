@@ -7,6 +7,8 @@ Most of my time goes into [Gielinor Gains](https://www.gielinorgains.com), a fre
 Some other things I've made:
 
 - [**Across**](https://github.com/cameronspears/across) sends a file straight from one browser to another, encrypted end to end. No account, nothing stored. Try it at [acrossfile.com](https://acrossfile.com).
-- [**Latent**](https://github.com/cameronspears/latent) turns a Sony A5100 into a film camera. Load a film stock, shoot the roll, develop it later.
-- [**claude-skills**](https://github.com/cameronspears/claude-skills) are the Claude Code skills I use: [craft](https://github.com/cameronspears/claude-skills/tree/main/craft) builds and polishes web UI until nothing looks off, and [resume-hillclimb](https://github.com/cameronspears/claude-skills/tree/main/resume-hillclimb) improves a resume one change at a time, keeping a change only if blind judges prefer it.
+- [**Latent**](https://github.com/cameronspears/latent) turns a Sony A5100 into a film camera. Load a film stock, shoot the roll, develop it later. The camera's chip is slow and can't even divide, but a frame develops in about 6 seconds, down from 41, and the live view runs in the film look at up to 19 frames a second.
 - [**Pria 5**](https://github.com/cameronspears/pria-5) is a small two-way speaker I designed, 3D printed, measured and tuned at home, over more than 60 versions.
+- [**Dialed**](https://github.com/cameronspears/dialed) tunes a speaker flat for you, with no settings to pick. It works with Dayton Audio's ADAU1701 amp boards.
+- [**portfem**](https://github.com/cameronspears/portfem) finds a flared speaker port's true length by simulating the air inside it. It lands within 0.1% of textbook answers.
+- [**claude-skills**](https://github.com/cameronspears/claude-skills) are the Claude Code skills I use, like [craft](https://github.com/cameronspears/claude-skills/tree/main/craft), which builds and polishes web UI until nothing looks off.
